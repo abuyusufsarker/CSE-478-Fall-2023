@@ -4,10 +4,10 @@ This is a repository of Neural Network &amp; Fuzzy Systems lab
 
 Name: Abu Yusuf Sarker
 
-Student I'D: 19202103417
+Student ID: 19202103417
 
 Intake: 44
 
 Section: 03
 
-Course Teacher: Khan Md Hasib
+### Course Teacher: [Khan Md Hasib (https://github.com/hasibaust13)
