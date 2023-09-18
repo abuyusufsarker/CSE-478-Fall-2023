@@ -10,4 +10,4 @@ Intake: 44
 
 Section: 03
 
-### Course Teacher: [Khan Md Hasib (https://github.com/hasibaust13)
+### Course Teacher: [Khan Md Hasib (https://github.com/hasibaust13)]
